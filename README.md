@@ -2,6 +2,7 @@
  8-WeekSQL-Challenge-With-Danny
 </h1>
 
+![1](https://github.com/mademoixcel/8-WeekSQL-Challenge-With-Danny/assets/124081194/85a22451-a6f9-4b2c-b611-e88de186ad27)
 
 Providing solutions to the 8-week SQL challenge posted in 2021 at [Danny's Diner.](https://8weeksqlchallenge.com/getting-started/)
 
