@@ -41,7 +41,7 @@ This repository contains a collection of SQL queries designed to provide insight
 
   10. <b>First Week Points:</b> Calculating points earned by customers in the first week after joining, considering a 2x multiplier for all items.
 
-## *️⃣: Skills 
+## *️⃣: Skills Demonstrated 
 <b>JOINs</b>
 
 <b>Aggregate functions</b>
@@ -54,30 +54,20 @@ This repository contains a collection of SQL queries designed to provide insight
 <!--
 Quick Link 
 -->
+[LinkedIn]:https://www.linkedin.com/in/zehida-thabit-86583a228/
+[GitHub]:https://github.com/mademoixcel
+[Medium]:https://medium.com/@zehidata
+
+
+## :white_check_mark: Solutions
+
+
+| Challenge   | Queries | Walkthrough | Blog Post | Skills Tested |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| [Case Study 1 - Danny's Diner](https://8weeksqlchallenge.com/case-study-1/)      |  [SQL :snowflake:](https://github.com/wjsutton/data_with_danny_8_week_sql_challenge/blob/main/Case%20Study%201%20-%20Dannys%20Diner/week1_solutions.sql) | [YouTube :tv:](https://youtu.be/2fCPTlYiX4s) | [3 Tips for Week 1 :book:](https://www.linkedin.com/pulse/3-sql-tips-from-danny-mas-8-week-challenge-part-1-will-sutton/) | Ranking, Common Table Expressions (CTEs), Case Statements, Dates and Scalar functions|
 
 
 [LinkedIn]:https://www.linkedin.com/in/zehida-thabit-86583a228/
 [GitHub]:https://github.com/mademoixcel
 [Medium]:https://medium.com/@zehidata
 
-Total Amount Spent by Each Customer: Get a breakdown of the total amount spent by each customer at the restaurant.
-
-Customer Visits: Find out how many days each customer has visited the restaurant.
-
-First Item Purchased: Discover the first menu item purchased by each customer.
-
-Most Purchased Item: Identify the most popular menu item and its total purchase count.
-
-Most Popular Item per Customer: Determine the most popular menu item for each customer.
-
-First Post-Membership Purchase: Find the first menu item purchased by customers after joining the membership program.
-
-Last Pre-Membership Purchase: Identify the last menu item purchased by customers before joining the membership program.
-
-Items and Spending Before Membership: Analyze the total items and spending of each member before joining.
-
-Customer Points Calculation: Calculate customer points based on spending, considering a 2x multiplier for sushi.
-
-First Week Points: Calculate points earned by customers in the first week after joining, considering a 2x multiplier for all items.
-
-These SQL queries utilize a combination of JOINs, window functions, and conditional logic to provide comprehensive insights into customer behavior, spending patterns, and loyalty program participation at Danny's Diner.
