@@ -62,9 +62,9 @@ Quick Link
 ## :white_check_mark: Solutions
 
 
-| Challenge   | Queries | Walkthrough |  Skills Tested |
+| Challenge   | Queries | Detailed Explanation |  Skills Tested |
 | ----------- | ----------- | ----------- |  ----------- |
-| [Case Study 1 - Danny's Diner](https://8weeksqlchallenge.com/case-study-1/)      |  [pgAdmin](https://github.com/mademoixcel/8-WeekSQL-Challenge-With-Danny/blob/main/week1_danny_challenge_with_PostgreSQL.sql) | [Medium 📖:](https://youtu.be/2fCPTlYiX4s) | Ranking, Common Table Expressions (CTEs), Case Statements, Dates and Scalar functions|
+| [Case Study 1 - Danny's Diner](https://8weeksqlchallenge.com/case-study-1/)      |  [pgAdmin](https://github.com/mademoixcel/8-WeekSQL-Challenge-With-Danny/blob/main/week1_danny_challenge_with_PostgreSQL.sql) | [Medium 📖:](https://medium.com/@zehidata) | <b>Data Retrieval, JOINs (INNER, FULL), Ranking, Common Table Expressions (CTEs), Case Statements, Subqueries, Aggregate functions, and Date Manipulation.</b>|
 
 
 [LinkedIn]:https://www.linkedin.com/in/zehida-thabit-86583a228/
