@@ -62,9 +62,9 @@ Quick Link
 ## :white_check_mark: Solutions
 
 
-| Challenge   | Queries | Walkthrough | Blog Post | Skills Tested |
-| ----------- | ----------- | ----------- | ----------- | ----------- |
-| [Case Study 1 - Danny's Diner](https://8weeksqlchallenge.com/case-study-1/)      |  [SQL :snowflake:](https://github.com/wjsutton/data_with_danny_8_week_sql_challenge/blob/main/Case%20Study%201%20-%20Dannys%20Diner/week1_solutions.sql) | [YouTube :tv:](https://youtu.be/2fCPTlYiX4s) | [3 Tips for Week 1 :book:](https://www.linkedin.com/pulse/3-sql-tips-from-danny-mas-8-week-challenge-part-1-will-sutton/) | Ranking, Common Table Expressions (CTEs), Case Statements, Dates and Scalar functions|
+| Challenge   | Queries | Walkthrough |  Skills Tested |
+| ----------- | ----------- | ----------- |  ----------- |
+| [Case Study 1 - Danny's Diner](https://8weeksqlchallenge.com/case-study-1/)      |  [pgAdmin](https://github.com/mademoixcel/8-WeekSQL-Challenge-With-Danny/blob/main/week1_danny_challenge_with_PostgreSQL.sql) | [Medium 📖:](https://youtu.be/2fCPTlYiX4s) | Ranking, Common Table Expressions (CTEs), Case Statements, Dates and Scalar functions|
 
 
 [LinkedIn]:https://www.linkedin.com/in/zehida-thabit-86583a228/
